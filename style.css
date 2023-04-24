@@ -1,0 +1,15 @@
+*{
+    background-color:rgb(219, 212, 212);
+}
+.context{
+    margin-top: 50px;
+}
+img{
+    height: 70px;
+    width: 70px;
+    display: block;
+     margin: auto;
+}
+p{
+    text-align: center;
+}
